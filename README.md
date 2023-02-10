@@ -49,6 +49,23 @@ Liam constantin Solares
 
 **MY MOVIES AND SERIES"
 
+
 *AVENGERS END GAME*
 
 ![Avengers end game picture](https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg?region=0%2C0%2C540%2C810)
+
+
+
+*ASSASIN CREED*
+
+![Assasin creed picture](https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7qSZMxLOAsEPF6tXGFD83n/b0914152c722de321e278683a844fd10/ac-brotherhood.jpg?imwidth=360)
+
+
+*JOHN WICK*
+
+![John wick picture](https://lionsgate.brightspotcdn.com/59/e8/576c91ae47e4aa7fd6240dc48674/john-wick-chapter-1-movies-poster-01.jpg)
+
+
+*500 DAYS OF SUMMER*
+
+![500 days of summer picture](https://lionsgate.brightspotcdn.com/59/e8/576c91ae47e4aa7fd6240dc48674/john-wick-chapter-1-movies-poster-01.jpg)
