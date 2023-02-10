@@ -65,8 +65,7 @@ Liam constantin Solares
 *JOHN WICK*
 
 ![John wick picture](https://lionsgate.brightspotcdn.com/59/e8/576c91ae47e4aa7fd6240dc48674/john-wick-chapter-1-movies-poster-01.jpg)
-
-
-*500 DAYS OF SUMMER*
-
-![500 days of summer picture](https://lionsgate.brightspotcdn.com/59/e8/576c91ae47e4aa7fd6240dc48674/john-wick-chapter-1-movies-poster-01.jpg)
+---
+**THE END!**
+---
+**THANK YOU FOR YOUR TIME**
