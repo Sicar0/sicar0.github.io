@@ -50,4 +50,5 @@ Liam constantin Solares
 **MY MOVIES AND SERIES"
 
 *AVENGERS END GAME*
-![Avengers end game picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmovies.disney.com%2Favengers-endgame&psig=AOvVaw3VDAnys6E9tt6IPhXoZOMO&ust=1676121751160000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKic0aCGi_0CFQAAAAAdAAAAABAD)
+
+![Avengers end game picture](https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg?region=0%2C0%2C540%2C810)
